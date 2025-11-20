@@ -42,19 +42,22 @@ This project is deployed on **AWS Elastic Beanstalk**, demonstrating:
 
 ## ⚙️ How to Run
 
-### 1. Install dependencies
+### 1. Install dependencies and clone project
 
 ```
+git clone https://github.com/abhinav7876/Student-Marks-Predictor-Data-Science.git
+conda create -p venv python==3.10 -y
+conda activate venv/
 pip install -r requirements.txt
 ```
 
 ### 2. Launch the prediction app
 
 ```
-conda activate venv/
 python app.py
 ```
-
+open up localhost:
+http://127.0.0.1:8080
 ---
 
 ## 📈 Results & Insights
