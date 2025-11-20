@@ -27,19 +27,18 @@ This project focuses on identifying key factors affecting students' academic per
 **Tools:** Jupyter Notebook, VS Code, Git
 **Deployment:** Flask
 
-☁️ AWS Deployment
+---
 
-This project is deployed on AWS Elastic Beanstalk, demonstrating:
+# ☁️ **AWS Deployment**
 
-Ability to containerize and package ML applications for cloud environments
+This project is deployed on **AWS Elastic Beanstalk**, demonstrating:
 
-Configuration of Elastic Beanstalk environments (Python platform)
+* Ability to containerize and package ML applications for cloud environments
+* Configuration of Elastic Beanstalk environments (Python platform)
+* Handling environment variables, WSGI setup, and application configuration
+* Deploying updates and managing versions
+* Using AWS services for scalable, production-ready ML apps
 
-Handling environment variables, WSGI setup, and application configuration
-
-Deploying updates and managing versions
-
-Using AWS services for scalable, production-ready ML apps
 
 ## ⚙️ How to Run
 
@@ -72,4 +71,3 @@ Key insights derived from the dataset:
 ![alt text](image-1.png)
 
 ![alt text](<Screenshot 2025-11-13 065332.png>)
-
