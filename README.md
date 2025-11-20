@@ -54,7 +54,8 @@ pip install -r requirements.txt
 conda activate venv/
 python app.py
 ```
-
+open up localhost:
+http://127.0.0.1:8080/predictdata
 ---
 
 ## 📈 Results & Insights
