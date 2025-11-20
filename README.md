@@ -57,7 +57,7 @@ pip install -r requirements.txt
 python app.py
 ```
 open up localhost:
-http://127.0.0.1:8080
+http://127.0.0.1:8080/predictdata
 ---
 
 ## 📈 Results & Insights
