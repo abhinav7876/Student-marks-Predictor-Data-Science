@@ -52,6 +52,7 @@ pip install -r requirements.txt
 ### 2. Launch the prediction app
 
 ```
+conda activate venv/
 python app.py
 ```
 
